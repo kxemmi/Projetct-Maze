@@ -69,6 +69,10 @@
 		{
 			"Name": "CameraCalibration",
 			"Enabled": false
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
